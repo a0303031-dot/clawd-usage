@@ -1,0 +1,6 @@
+{
+  "name": "clawd-usage",
+  "version": "0.2.0",
+  "description": "在輸入框上方常駐顯示 5 小時與 7 天額度，Claude 工作時 Clawd 會在框前面跑來跑去，跑到底戴帽子跳三下再回頭",
+  "types": "./types/index.d.ts"
+}

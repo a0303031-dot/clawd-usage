@@ -1,0 +1,6 @@
+{
+  "name": "clawd-usage",
+  "owner": { "name": "a0303031-dot" },
+  "description": "Claude Code mod：輸入框上方的額度框與會跑的 Clawd",
+  "plugins": [{ "name": "clawd-usage", "source": "./" }]
+}
